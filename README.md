@@ -33,7 +33,11 @@ Model evaluation and deployment-related sections should be adapted based on spec
 ## Files:
 CustomerChurn_dataset.csv: Input dataset for customer churn prediction.
 model3.pkl: Saved model file.
+
 scaler3.pkl: Saved scaler file.
+
 label3.pkl: Saved label encoder file.
+
 Customer_churn.ipynb: notebook file.
+
 app2.py: streamlit deployment file
